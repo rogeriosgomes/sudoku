@@ -20,7 +20,6 @@ Java 21
 
 Paradigma Orientado a Objetos (POO)
 
-[Maven/Gradle] (se aplicável)
 
 ▶️ Como Executar
 
@@ -49,3 +48,4 @@ Criar testes unitários e de integração.
 
 Contribuições são bem-vindas!
 Para contribuir, faça um fork do projeto, crie uma branch (git checkout -b feature/nova-funcionalidade), realize as alterações e abra um Pull Request.
+
